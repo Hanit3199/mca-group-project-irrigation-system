@@ -56,39 +56,6 @@ Traditional irrigation systems often rely on guesswork or fixed schedules, leadi
 
 ---
 
-## 📂 Folder / Code Structure (Suggested)
-```
-/mca-group-project-irrigation-system
-│
-├── main.c / main.java / main.py     # Main logic file
-├── crop_data.txt                    # Crop-wise moisture thresholds
-├── README.md                        # Documentation
-├── images/                          # Screenshots
-└── ... (other source files)
-```
-
----
-
-## 💻 How to Run (Generic)
-### **For C**
-```
-gcc main.c -o irrigation
-./irrigation
-```
-
-### **For Java**
-```
-javac Main.java
-java Main
-```
-
-### **For Python**
-```
-python main.py
-```
-
----
-
 ## 👥 Group Members
 | Name          | Roll No |
 |---------------|---------|
@@ -97,22 +64,11 @@ python main.py
 | Basiru Mbye   | 08      |
 | Isha Dua      | 12      |
 
----
-
-## 🧾 Technologies Used
-- C / Java / Python (as per implementation)
-- File handling (optional)
-- Conditional logic & DSA concepts
-- Weather forecast logic (rule-based)
-
----
-
-## 📸 Output Screenshots
-*(Add your program screenshots in an `/images` folder and showcase them here)*
-
----
 
 ## ✅ Conclusion
 This system provides a **smart, efficient, and optimized irrigation scheduler** capable of handling real-time environmental factors such as soil moisture and weather predictions.  
 It helps conserve water and supports better agriculture planning.
+
+
+
 
